@@ -9,6 +9,7 @@ public class ws03 {
 		System.out.println("1~9 중 숫자 3개를 입력하세요");
 		Scanner sc = new Scanner(System.in);
 		int arr[] = new int[3] ;
+		
 		arr[0] = sc.nextInt();
 		arr[1] = sc.nextInt();
 		arr[2] = sc.nextInt();
